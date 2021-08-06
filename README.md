@@ -2,8 +2,8 @@
 R codes for figures reproducibility
 
 
-## Schematic view of the pipeline
-![schematic](workflow.png)
+## Abstract
+
 
 
 Spalt-like transcription factors (SALLs) are evolutionarily conserved proteins that participate in embryonic development. Four members of the SALL family, SALL1, SALL2, SALL3, and SALL4, are involved in cellular apoptosis, angiogenesis, invasion, and metastasis of tumors. We used the TCGA pan-cancer data to conduct a comprehensive analysis of SALL genes. High heterogeneity in the expression of these genes was observed across various cancers, SALL1 and SALL2 were downregulated, whereas SALL4 was upregulated. Moreover, we verified that SALL4 was commonly associated with survival disadvantage, whereas others were linked to a better prognosis. In renal cancer, SALL1, SALL2, and SALL3 showed downregulation, suggesting that they acted as tumor suppressors. Furthermore, SALLs were associated with immune infiltrate subtypes, with a close association between different degrees of infiltration of stromal cells and immune cells. DNA and RNA analyses in different tumors suggested different degrees of negative or positive correlation with tumor stem cell-like features. Finally, we revealed that SALLs were related to cancer cell resistance. Our results highlight the necessity to further study each SALL gene as a separate entity in specific types of cancer. Although this article showed that SALLs could be promising targets for cancer therapy, it needs further studies to validate the findings.
@@ -59,7 +59,11 @@ DirName | Description
 `21.singleCancerScore` | Stemness score of one single cancer type.
 
 
-
+![schematic](Fig1.pdf)
+![schematic](Fig2.pdf)
+![schematic](Fig3.pdf)
+![schematic](Fig4.pdf)
+![schematic](Fig5.pdf)
 
 
 
