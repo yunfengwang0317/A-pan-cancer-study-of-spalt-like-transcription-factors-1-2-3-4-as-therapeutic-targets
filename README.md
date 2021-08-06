@@ -32,11 +32,7 @@ This paper relies on the following libraries and softwares:
 
 Users can manually download the scripts or use the command line as follows.
 
-`git clone https://github.com/yunfengwang0317/2-kupl.git`
-    
-Make sure you run 2-kupl within the script folder.
-Please add the dependencies including Jellyfish, cutadapt, GSNAP, CAP3 and BBDUK to your environment variables. 
-    
+`https://github.com/yunfengwang0317/A-pan-cancer-study-of-spalt-like-transcription-factors-1-2-3-4-as-therapeutic-targets.git`
 
 
 
